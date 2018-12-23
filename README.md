@@ -3,7 +3,7 @@
     <img alt="HEADER" src="start.jpg" width="900" height="300"></img>
 </h1>
 
-| [2018](#2018) | [2017](#2017) | [Suggestions](https://github.com/zziz/pwc/issues/1) |    
+| [2018](#2018) | [2017](#2017) | [Suggestions](https://github.com/purvanshi/ML-Research-Made-Easy/issues) |    
 |:-------:|:-------:|:-------:|
 
 This work is in continuous progress and update. We are adding new blogs everyday! 
