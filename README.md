@@ -22,6 +22,7 @@ This summary is categorized into:
 - [Reinforcement Learning](https://github.com/purvanshi/ML-Research-Made-Easy#reinforcement-learning)
 - [Unsupervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#unsupervised-learning)
 - [Semi supervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#semi-supervised-learning)
+- [Bayesian Networks](https://github.com/purvanshi/ML-Research-Made-Easy#bayesian-networks)
 
 
 
@@ -63,3 +64,9 @@ Leader Board
 
 
 ## Reinforcement Learning
+
+## Bayesian Networks
+
+[Bayesian Convolutional Neural Networks with Variational Inference](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e)
+
+[Local Reparameterization Tricks](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954)
