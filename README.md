@@ -9,7 +9,7 @@ This repository provides Machine Learning papers with their supplementary materi
 
 ### Caution : Don't understand this as a subtitute to reading papers but just for getting an idea of the paper and saving time by not going into the math directly.
 
-This is an attempt to make  one stop for all types of machine learning papers and their easy to read blogs. I can not do this alone. I need help from everyone. 
+This is an attempt to make  one stop for all types of machine learning papers and their easy to read blogs. If you feel you have some blogs that you want to be featured here, let me know.
 
 This summary is categorized into:
 
