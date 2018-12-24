@@ -7,21 +7,21 @@
 
 This repository provides Machine Learning papers with their supplementary material links. Given the fast paced research in the field resorting to blogs for getting an idea of the paper and then deciding whether to invest the time on reading the paper looks like a wise approach.
 
-###Caution : Don't understand this as a subtitute to reading papers but just for getting an idea of the paper and saving time by not going into the math directly.
+### Caution : Don't understand this as a subtitute to reading papers but just for getting an idea of the paper and saving time by not going into the math directly.
 
 This is an attempt to make  one stop for all types of machine learning papers and their easy to read blogs. I can not do this alone. I need help from everyone. 
 
 This summary is categorized into:
 
--[Natural language Processing](https://github.com/purvanshi/ML-Research-Made-Easy#NLP)
+- [Natural language Processing](https://github.com/purvanshi/ML-Research-Made-Easy#NLP)
 		- [Question Answering](https://github.com/purvanshi/ML-Research-Made-Easys#Language-Modelling)
 		- [Natural Language Inference](https://github.com/purvanshi/ML-Research-Made-Easy#supervised-learning) 
--[Computer vision](https://github.com/purvanshi/ML-Research-Made-Easy#computer-vision)
--[Speech](https://github.com/purvanshi/ML-Research-Made-Easy#speech)
--[Transfer Learning](https://github.com/purvanshi/ML-Research-Made-Easy#transfer-learning)
--[Reinforcement Learning](https://github.com/purvanshi/ML-Research-Made-Easy#reinforcement-learning)
--[Unsupervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#unsupervised-learning)
--[Semi supervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#semi-supervised-learning)
+- [Computer vision](https://github.com/purvanshi/ML-Research-Made-Easy#computer-vision)
+- [Speech](https://github.com/purvanshi/ML-Research-Made-Easy#speech)
+- [Transfer Learning](https://github.com/purvanshi/ML-Research-Made-Easy#transfer-learning)
+- [Reinforcement Learning](https://github.com/purvanshi/ML-Research-Made-Easy#reinforcement-learning)
+- [Unsupervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#unsupervised-learning)
+- [Semi supervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#semi-supervised-learning)
 
 
 
