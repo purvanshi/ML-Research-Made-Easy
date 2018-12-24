@@ -71,5 +71,4 @@ Leader Board
 | Title | Paper | Blog | 
 |:--------|:--------:|:--------:|
 | Bayesian Convolutional Neural Networks with Variational Inference | [Paper](https://arxiv.org/abs/1806.05978) | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
-|:--------|:--------:|:--------:|
 | Local Reparameterization Trick | [Paper](https://arxiv.org/abs/1506.02557) | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
