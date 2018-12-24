@@ -48,7 +48,7 @@ Leader Board
 ## Computer Vision
 | Title | Conf | supplementary material | 
 |:--------|:--------:|:--------:|
-| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [video](https://youtu.be/5zlcXTCpQqM), [1](https://www.techleer.com/articles/549-video-to-video-synthesis-at-2k-resolution-using-a-conditional-gan-framework/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/98ulq8/videotovideo_synthesis_from_nvidia_with_code_r/)  |
+| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [video](https://youtu.be/5zlcXTCpQqM), [Blog](https://www.techleer.com/articles/549-video-to-video-synthesis-at-2k-resolution-using-a-conditional-gan-framework/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/98ulq8/videotovideo_synthesis_from_nvidia_with_code_r/)  |
 
 
 ## Speech
@@ -68,7 +68,7 @@ Leader Board
 ## Bayesian Networks
 
 
-| Title | Paper | Blog | 
+| Title | Conf | supplementary material |
 |:--------|:--------:|:--------:|
-| Bayesian Convolutional Neural Networks with Variational Inference | [Paper](https://arxiv.org/abs/1806.05978) | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
-| Local Reparameterization Trick | [Paper](https://arxiv.org/abs/1506.02557) | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
+| [Bayesian Convolutional Neural Networks with Variational Inference](https://arxiv.org/abs/1806.05978) | arxiv | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
+| Local Reparameterization Trick(https://arxiv.org/abs/1506.02557) | arxiv | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
