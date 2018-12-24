@@ -14,8 +14,8 @@ This is an attempt to make  one stop for all types of machine learning papers an
 This summary is categorized into:
 
 - [Natural language Processing](https://github.com/purvanshi/ML-Research-Made-Easy#NLP)
-		- [Question Answering](https://github.com/purvanshi/ML-Research-Made-Easys#Language-Modelling)
-		- [Natural Language Inference](https://github.com/purvanshi/ML-Research-Made-Easy#supervised-learning) 
+  - [Question Answering](https://github.com/purvanshi/ML-Research-Made-Easys#Language-Modelling)
+  - [Natural Language Inference](https://github.com/purvanshi/ML-Research-Made-Easy#supervised-learning) 
 - [Computer vision](https://github.com/purvanshi/ML-Research-Made-Easy#computer-vision)
 - [Speech](https://github.com/purvanshi/ML-Research-Made-Easy#speech)
 - [Transfer Learning](https://github.com/purvanshi/ML-Research-Made-Easy#transfer-learning)
