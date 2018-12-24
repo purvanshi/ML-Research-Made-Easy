@@ -54,6 +54,7 @@ Leader Board
 | Title | Conf | supplementary material | 
 |:--------|:--------:|:--------:|
 | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [video](https://youtu.be/5zlcXTCpQqM), [Blog](https://www.techleer.com/articles/549-video-to-video-synthesis-at-2k-resolution-using-a-conditional-gan-framework/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/98ulq8/videotovideo_synthesis_from_nvidia_with_code_r/)  |
+| [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) | ECCV | [video](https://www.youtube.com/watch?v=nDPWywWRIRo), [Blog](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)|
 
 
 ## Speech
