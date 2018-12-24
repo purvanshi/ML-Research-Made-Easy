@@ -37,6 +37,11 @@ Leader board:
 [MultiNLI](https://www.kaggle.com/c/multinli-matched-open-evaluation/leaderboard)
 
 
+| Title | Conf | supplementary material |
+|:--------|:--------:|:--------:|
+| [Subword Semantic Hashing for Intent Classification on Small Datasets](https://arxiv.org/abs/1810.07150) | ArXiv | [Blog](https://chatbotslife.com/know-your-intent-sota-results-in-intent-classification-8e1ca47f364c) |
+
+
 
 #### 2. Question Answering
 Leader Board
@@ -70,5 +75,5 @@ Leader Board
 
 | Title | Conf | supplementary material |
 |:--------|:--------:|:--------:|
-| [Bayesian Convolutional Neural Networks with Variational Inference](https://arxiv.org/abs/1806.05978) | arxiv | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
-| [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557) | arxiv | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
+| [Bayesian Convolutional Neural Networks with Variational Inference](https://arxiv.org/abs/1806.05978) | ArXiv | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
+| [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557) | ArXiv | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
