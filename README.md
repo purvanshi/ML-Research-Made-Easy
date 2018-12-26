@@ -28,6 +28,9 @@ This summary is categorized into:
 
 ## NLP
 
+| Title | Conf | supplementary material |
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | ArXiv | [Google Blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html), [Code](https://github.com/google-research/bert), [Blog](https://medium.com/syncedreview/best-nlp-model-ever-google-bert-sets-new-standards-in-11-language-tasks-4a2a189bc155) |
+
 
 #### 1. Natural Language Inference 
 Leader board: 
