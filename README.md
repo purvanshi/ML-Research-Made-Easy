@@ -67,6 +67,7 @@ Leader Board
 
 ## Speech
 [Speech SOTA](https://github.com/syhw/wer_are_we)
+<br>
 [Music Genre classification](https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194)
 
 ## Semi Supervised Learning
@@ -74,6 +75,7 @@ Leader Board
 
 ## Supervised Learning
 [Medical data](https://github.com/beamandrew/medical-data)
+[Batch Normalization](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
 ## Transfer Learning
 
 
