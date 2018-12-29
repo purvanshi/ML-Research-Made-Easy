@@ -28,6 +28,10 @@ This summary is categorized into:
 
 ## NLP
 
+| Title | Conf | supplementary material |
+|:--------|:--------:|:--------:|
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | ArXiv | [Google Blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html), [Code](https://github.com/google-research/bert), [Medium](https://medium.com/syncedreview/best-nlp-model-ever-google-bert-sets-new-standards-in-11-language-tasks-4a2a189bc155) |
+
 
 #### 1. Natural Language Inference 
 Leader board: 
@@ -55,6 +59,7 @@ Leader Board
 |:--------|:--------:|:--------:|
 | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [video](https://youtu.be/5zlcXTCpQqM), [Blog](https://www.techleer.com/articles/549-video-to-video-synthesis-at-2k-resolution-using-a-conditional-gan-framework/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/98ulq8/videotovideo_synthesis_from_nvidia_with_code_r/)  |
 | [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) | ECCV | [video](https://www.youtube.com/watch?v=nDPWywWRIRo), [Blog](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)|
+| [Capsule Networks](https://arxiv.org/abs/1710.09829) | ArXiv | [Blog](https://cezannec.github.io/Capsule_Networks/) |
 
 
 ## Speech
