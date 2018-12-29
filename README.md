@@ -74,7 +74,7 @@ Leader Board
 
 
 ## Supervised Learning
-[Medical data](https://github.com/beamandrew/medical-data)
+[Medical data](https://github.com/beamandrew/medical-data)<br>
 [Batch Normalization](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
 ## Transfer Learning
 
