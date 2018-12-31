@@ -40,6 +40,7 @@ Leader board:
 
 [MultiNLI](https://www.kaggle.com/c/multinli-matched-open-evaluation/leaderboard)
 
+LSTM [Colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) , [Andrej karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 | Title | Conf | supplementary material |
 |:--------|:--------:|:--------:|
@@ -57,19 +58,24 @@ Leader Board
 ## Computer Vision
 | Title | Conf | supplementary material | 
 |:--------|:--------:|:--------:|
-| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [video](https://youtu.be/5zlcXTCpQqM), [Blog](https://www.techleer.com/articles/549-video-to-video-synthesis-at-2k-resolution-using-a-conditional-gan-framework/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/98ulq8/videotovideo_synthesis_from_nvidia_with_code_r/)  |
+| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [video](https://youtu.be/5zlcXTCpQqM), [Blog](https://ww.techleer.com/articles/549-video-to-video-synthesis-at-2k-resolution-using-a-conditional-gan-framework/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/98ulq8/videotovideo_synthesis_from_nvidia_with_code_r/)  |
 | [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) | ECCV | [video](https://www.youtube.com/watch?v=nDPWywWRIRo), [Blog](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)|
-| [Capsule Networks](https://arxiv.org/abs/1710.09829) | ArXiv | [Blog](https://cezannec.github.io/Capsule_Networks/) |
+| [Capsule Networks](https://arxiv.org/abs/1710.09829) | ArXiv | [Blog](https://cezannec.github.io/Capsule_Networks/), [Blog Series](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)|
+| [GAN](https://arxiv.org/pdf/1406.2661) | ArXiv | [Blog](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [Video](https://www.youtube.com/watch?v=HGYYEUSm-0Q),[Other gans](https://github.com/nightrome/really-awesome-gan),[Applications of Gan](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)|
+
 
 
 ## Speech
 [Speech SOTA](https://github.com/syhw/wer_are_we)
+<br>
+[Music Genre classification](https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194)
 
 ## Semi Supervised Learning
 
 
 ## Supervised Learning
-
+[Medical data](https://github.com/beamandrew/medical-data)<br>
+[Batch Normalization](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
 ## Transfer Learning
 
 
