@@ -89,3 +89,4 @@ Leader Board
 |:--------|:--------:|:--------:|
 | [Bayesian Convolutional Neural Networks with Variational Inference](https://arxiv.org/abs/1806.05978) | ArXiv | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
 | [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557) | ArXiv | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
+| [Bayes by Backprop](https://arxiv.org/abs/1505.05424) | ArXiv | [Blog](https://medium.com/neuralspace/probabilistic-deep-learning-bayes-by-backprop-c4a3de0d9743) |
