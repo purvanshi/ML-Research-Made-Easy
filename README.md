@@ -71,6 +71,9 @@ Leader Board
 [Music Genre classification](https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194)
 
 ## Semi Supervised Learning
+| Title | Conf | supplementary material |
+|:--------|:--------:|:--------:|
+|[Snorkel](https://arxiv.org/pdf/1711.10160.pdf)| ArXiv | [Blog](https://blog.acolyer.org/2018/08/22/snorkel-rapid-training-data-creation-with-weak-supervision/), [Stanford](https://hazyresearch.github.io/snorkel/)|
 
 
 ## Supervised Learning
