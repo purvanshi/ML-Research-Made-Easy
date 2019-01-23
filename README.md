@@ -79,6 +79,17 @@ Leader Board
 ## Supervised Learning
 [Medical data](https://github.com/beamandrew/medical-data)<br>
 [Batch Normalization](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
+
+| Title | Conf | supplementary material | 
+|:--------|:--------:|:--------:|
+|[Faster R-CNN](https://arxiv.org/abs/1506.01497)| ArXiv | [Blog](https://medium.com/@hyponymous/paper-summary-faster-r-cnn-f8ea90ef1ff4) |
+
+
+## Adversarial Learning
+| Title | Conf | supplementary material | 
+|:--------|:--------:|:--------:|
+|[Adversarial Shperes](https://arxiv.org/abs/1801.02774) | ArXiv | [Blog](https://medium.com/@hyponymous/paper-summary-adversarial-spheres-46e57c792046) |
+
 ## Transfer Learning
 
 
