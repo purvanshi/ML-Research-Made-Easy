@@ -64,8 +64,7 @@ Leader Board
 | [GAN](https://arxiv.org/pdf/1406.2661) | ArXiv | [Blog](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [Video](https://www.youtube.com/watch?v=HGYYEUSm-0Q),[Other gans](https://github.com/nightrome/really-awesome-gan),[Gan blog series](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)|
 | [deep clustering for unsupervised learning of visual features](https://arxiv.org/abs/1807.05520) | ECCV | [Blog](https://xiaoyuliu.github.io/2018/08/09/20180809-Deep-Cluster-md/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/90k86x/r_deep_clustering_for_unsupervised_learning_of/)|
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)| ArXiv | [Blog] (https://medium.com/@krishamehta/8-you-only-look-once-unified-real-time-object-detection-3a56e333b206), [Tensorflow tutorial youtube](https://www.youtube.com/watch?v=4eIBisqx9_g)|
-|[Large-scale Video Classification with Convolutional Neural Networks
-](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)| CVPR | [Medium] (https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356)|
+|[Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)| CVPR | [Medium] (https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356)|
 
 
 ## Speech
