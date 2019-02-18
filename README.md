@@ -92,6 +92,11 @@ Leader Board
 |:--------|:--------:|:--------:|
 |[Adversarial Shperes](https://arxiv.org/abs/1801.02774) | ArXiv | [Blog](https://medium.com/@hyponymous/paper-summary-adversarial-spheres-46e57c792046) |
 
+## Optimizers
+| Title | Conf | supplementary material | 
+|:--------|:--------:|:--------:|
+|[Adam](https://arxiv.org/pdf/1412.6980.pdf)|ArXiv|[Medium](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)|
+
 ## Transfer Learning
 
 
