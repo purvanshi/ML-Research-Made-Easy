@@ -23,6 +23,7 @@ This summary is categorized into:
 - [Unsupervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#unsupervised-learning)
 - [Semi supervised Learning](https://github.com/purvanshi/ML-Research-Made-Easy#semi-supervised-learning)
 - [Bayesian Networks](https://github.com/purvanshi/ML-Research-Made-Easy#bayesian-networks)
+- [Generative Networks](https://github.com/purvanshi/ML-Research-Made-Easy#generative-networks)
 
 
 
@@ -111,3 +112,11 @@ Leader Board
 | [Bayesian Convolutional Neural Networks with Variational Inference](https://arxiv.org/abs/1806.05978) | ArXiv | [Blog](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) |
 | [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557) | ArXiv | [Blog](https://medium.com/@llionj/the-reparameterization-trick-4ff30fe92954) |
 | [Bayes by Backprop](https://arxiv.org/abs/1505.05424) | ArXiv | [Blog](https://medium.com/neuralspace/probabilistic-deep-learning-bayes-by-backprop-c4a3de0d9743) |
+
+## Generative Networks
+| Title | Conf | supplementary material |
+|:--------|:--------:|:--------:|
+| [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) | ArXiv | [Blog](https://medium.com/@jonathan_hui/gan-dcgan-deep-convolutional-generative-adversarial-networks-df855c438f) |
+| [Self-Attention GAN](https://arxiv.org/abs/1805.08318) | ArXiv | [Blog](https://medium.com/@jonathan_hui/gan-self-attention-generative-adversarial-networks-sagan-923fccde790c) |
+| [Progressive GAN](https://arxiv.org/abs/1710.10196) | ArXiv | [Blog](https://medium.com/@jonathan_hui/gan-progressive-growing-of-gans-f9e4f91edf33) |
+
