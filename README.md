@@ -119,4 +119,5 @@ Leader Board
 | [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) | ArXiv | [Blog](https://medium.com/@jonathan_hui/gan-dcgan-deep-convolutional-generative-adversarial-networks-df855c438f) |
 | [Self-Attention GAN](https://arxiv.org/abs/1805.08318) | ArXiv | [Blog](https://medium.com/@jonathan_hui/gan-self-attention-generative-adversarial-networks-sagan-923fccde790c) |
 | [Progressive GAN](https://arxiv.org/abs/1710.10196) | ArXiv | [Blog](https://medium.com/@jonathan_hui/gan-progressive-growing-of-gans-f9e4f91edf33) |
+| [Cycle GAN](https://arxiv.org/pdf/1703.10593.pdf) | ArXiv | [Blog](https://medium.com/coding-blocks/introduction-to-cyclegans-1dbdb8fbe781) |
 
